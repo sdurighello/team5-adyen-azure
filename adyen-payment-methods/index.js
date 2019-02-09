@@ -1,3 +1,5 @@
+// Azure URL: https://team5-adyen-azure2.azurewebsites.net/api/adyen/payment-methods?code=KUYN3Rho6VX5uFCbxm59l/5qhp7EKua9Wly58/UyW0OTKI6DhtQNng==
+
 const requestPromise = require('request-promise');
 
 module.exports = function (context, req) {
