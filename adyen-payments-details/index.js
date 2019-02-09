@@ -1,4 +1,4 @@
-https://team5-adyen-azure2.azurewebsites.net/api/adyen/payments/details?code=DqQsLIW7EkLPoFSRRvTDuUSGWdXaDtxLHxzTaAAzo5tHAGzXeT9wAA==
+// Azure Url: https://team5-adyen-azure2.azurewebsites.net/api/adyen/payments/details?code=DqQsLIW7EkLPoFSRRvTDuUSGWdXaDtxLHxzTaAAzo5tHAGzXeT9wAA==
 
 const requestPromise = require('request-promise');
 
