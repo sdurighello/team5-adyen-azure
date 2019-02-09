@@ -9,7 +9,7 @@ module.exports = function (context, req) {
         timeout: 60000,
         headers: {
             'Content-Type': 'application/json',
-            'X-API-Key': ''
+            'X-API-Key': 'AQEshmfxLInKbBVBw0m/n3Q5qf3Va4NIDphLTG1ZyEdUu6dvTZ206j5QzFZb/swQwV1bDb7kfNy1WIxIIkxgBw==-lDCAjV1HCMxSVMJwrFOhcIjeQsatqCj4SXKS1a64+ZU=-D4La7KmY64ZsEaCX'
         },
         body: req.body,
     }).then((adyenResponse) => {
