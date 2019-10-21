@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/sdras/sample-stripe-handler#readme",
   "dependencies": {
-    "request": "2.45.0",
+    "request": "2.88.0",
     "request-promise": "0.4.3"
   }
 }
